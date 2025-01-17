@@ -38,9 +38,7 @@ Ejemplos de uso
     Acortar una URL:
         Método: POST
         URL: https://localhost:5184/api/urls
-        Cuerpo:
-
-"https://www.ejemplo.com"
+        Cuerpo: "https://www.ejemplo.com"
 
 Respuesta:
 
