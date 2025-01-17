@@ -27,9 +27,10 @@ Ejecutar la aplicación:
 
     dotnet run
 
-    Acceder a la API:
-        Para acortar una URL, realiza una solicitud POST a https://localhost:5184/api/urls con el cuerpo que contenga la URL original.
-        Para redirigir, realiza una solicitud GET a https://localhost:5184/api/urls/{id}, donde {id} es el identificador de la URL acortada.
+Acceder a la API:
+
+    Para acortar una URL, realiza una solicitud POST a https://localhost:5184/api/urls con el cuerpo que contenga la URL original.
+    Para redirigir, realiza una solicitud GET a https://localhost:5184/api/urls/{id}, donde {id} es el identificador de la URL acortada.
 
 Ejemplos de uso
 
