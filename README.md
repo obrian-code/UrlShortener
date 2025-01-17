@@ -34,7 +34,8 @@ Acceder a la API:
 
 Ejemplos de uso
 
-    Acortar una URL:
+Acortar una URL:
+
         Método: POST
         URL: https://localhost:5184/api/urls
         Cuerpo: "https://www.ejemplo.com"
@@ -43,7 +44,8 @@ Respuesta:
 
         "https://localhost:5184/api/urls/{id}"
 
-    Redirigir una URL:
+Redirigir una URL:
+
         Método: GET
         URL: https://localhost:5184/api/urls/{id}
         Respuesta: Redirige al enlace original.
