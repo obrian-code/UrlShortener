@@ -17,13 +17,11 @@ Tecnologías utilizadas
 
 Cómo usar
 
-    Clona el repositorio:
-
-git clone https://github.com/obrian-code/UrlShortener.git
+    Clona el repositorio: git clone https://github.com/obrian-code/UrlShortener.git
 
 Instalar dependencias:
 
-dotnet restore
+    dotnet restore
 
 Ejecutar la aplicación:
 
