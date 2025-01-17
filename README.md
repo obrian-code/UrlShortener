@@ -19,7 +19,7 @@ Cómo usar
 
     Clona el repositorio:
 
-git clone https://github.com/usuario/UrlShortener.git
+git clone https://github.com/obrian-code/UrlShortener.git
 
 Instalar dependencias:
 
